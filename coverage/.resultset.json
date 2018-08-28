@@ -261,7 +261,7 @@
       "/Users/jling/turing/2module/projects/enrollment/app/controllers/students_controller.rb": [
         1,
         1,
-        6,
+        7,
         null,
         null,
         1,
@@ -301,8 +301,26 @@
         1,
         1,
         null
+      ],
+      "/Users/jling/turing/2module/projects/enrollment/app/controllers/addresses_controller.rb": [
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null
       ]
     },
-    "timestamp": 1535491909
+    "timestamp": 1535493195
   }
 }

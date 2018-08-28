@@ -9,7 +9,7 @@ describe 'user can create a new address' do
             it 'shows the new address on the student show page' do
               s = Student.create(name: "Jesse Ling")
 
-              visit new_student_address_path
+              visit new_student_address_path(s)
 
               expect(current_path).to eq new_student_address_path(s)
               desc = "dlsjfa;dfja;ldkfja;d"
