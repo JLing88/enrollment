@@ -111,6 +111,21 @@
         null,
         null,
         null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
         null,
         null
       ],
@@ -155,11 +170,11 @@
       "/Users/jling/turing/2module/projects/enrollment/app/controllers/students_controller.rb": [
         1,
         1,
-        5,
+        6,
         null,
         null,
         1,
-        8,
+        9,
         null,
         null,
         1,
@@ -197,6 +212,6 @@
         null
       ]
     },
-    "timestamp": 1535489371
+    "timestamp": 1535489834
   }
 }
