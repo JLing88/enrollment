@@ -1,3 +1,9 @@
 <h1> Student <%= @student.id %> </h1>
 
 <h3> Name: <%= @student.name %> <%= link_to "Edit", edit_student_path(@student) %>
+
+<% @student.addresses.each do |address| %>
+  <ul>
+    <li> <%= address.description %> <%= address.street %> <%= address.city %>, <%= address.state %> <%= address.zip %></li>
+  </ul>
+<% end %>

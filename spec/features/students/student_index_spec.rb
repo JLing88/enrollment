@@ -14,8 +14,6 @@ describe 'user sees all students spec' do
         expect(page).to have_content("#{s_1.name}")
         expect(page).to have_content("#{s_2.name}")
         expect(page).to have_content("#{s_3.name}")
-
-
       end
 
       it 'should have a link on each students name that takes them to show page' do
@@ -30,7 +28,6 @@ describe 'user sees all students spec' do
         end
 
         expect(current_path).to eq(student_path(s_2))
-
       end
     end
   end
