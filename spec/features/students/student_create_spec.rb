@@ -10,7 +10,10 @@ describe 'user can create a student' do
             visit new_student_path
 
             fill_in "student[name]", with: "Jesse Ling"
-            click_on "Create"
+
+            within("#create") do
+              click_on "Create"
+            end
 
             expect(current_path).to eq(student_path(Student.last))
             expect(page).to have_content(Student.last.name)
