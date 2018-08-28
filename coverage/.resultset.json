@@ -1,6 +1,72 @@
 {
   "RSpec": {
     "coverage": {
+      "/Users/jling/turing/2module/projects/enrollment/spec/features/students/navigation_link_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null
+      ],
       "/Users/jling/turing/2module/projects/enrollment/spec/features/students/student_create_spec.rb": [
         1,
         null,
@@ -109,8 +175,6 @@
         1,
         null,
         null,
-        null,
-        null,
         1,
         1,
         1,
@@ -123,7 +187,6 @@
         null,
         null,
         1,
-        null,
         null,
         null,
         null,
@@ -148,6 +211,34 @@
         null,
         null
       ],
+      "/Users/jling/turing/2module/projects/enrollment/spec/models/addresses_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        null,
+        null,
+        1,
+        2,
+        null,
+        null
+      ],
+      "/Users/jling/turing/2module/projects/enrollment/app/models/address.rb": [
+        1,
+        1,
+        1,
+        null
+      ],
+      "/Users/jling/turing/2module/projects/enrollment/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
       "/Users/jling/turing/2module/projects/enrollment/spec/models/student_spec.rb": [
         1,
         null,
@@ -155,14 +246,14 @@
         1,
         2,
         null,
+        null,
+        1,
+        2,
+        null,
         null
       ],
       "/Users/jling/turing/2module/projects/enrollment/app/models/student.rb": [
         1,
-        1,
-        null
-      ],
-      "/Users/jling/turing/2module/projects/enrollment/app/models/application_record.rb": [
         1,
         1,
         null
@@ -212,6 +303,6 @@
         null
       ]
     },
-    "timestamp": 1535489834
+    "timestamp": 1535491909
   }
 }
