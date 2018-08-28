@@ -7,7 +7,7 @@ describe 'user can create a new address' do
         describe 'they click submit' do
           describe 'it takes the to the student show page' do
             it 'shows the new address on the student show page' do
-              s = Student.create(name: "Jesse Ling")
+              s = Student.create!(name: "Jesse Ling")
 
               visit new_student_address_path(s)
 
